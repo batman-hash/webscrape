@@ -1,0 +1,11 @@
+version: "2.0"
+os: ubuntu-22.04
+runtime:
+  - python-3.10
+tasks:
+  - name: Setup Kali Tools
+    command: |
+      sudo apt update
+      sudo apt install -y kali-archive-keyring
+      pip install -r requirements.txt
+
