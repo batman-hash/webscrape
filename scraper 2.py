@@ -1,1 +1,217 @@
-gAAAAABpiHuJj4TsFxIq96ryJEY6yHS-1V2DNo8WAz_O7Sxy91LpaZfFyYeK9QSNau35LPYnagqVJ4VTNkLwpBAGUECID_ATQUn6eSJ5k7DOQd7JFJmD_qr9BnACy1vmZLcAUZOVbF0bxQjOpiE2rSeOGOVmMyyYj2XL8ujrSYeQaqrJaznahKhxN5X36yOvrFJr9MWe4-_ts9BCLbf2q3igZ9KF-gtkOYwEcImhbQE5d9exIcqzmZOW-gvEwTmjpXSZ8IVBHt2O1O7-E2YuvyUdhuVJYyXktASZeHB9nr8Mdj5EWUFU7EMazTeQGnm5E7MpoeHM2phetZmxniWbWNRADt4m-RYM6HKzsnBD0zsIQcCTv24weW420RudmcE-tv45wnb-Fr2Lg67OZUZMnfSZZc3fYg3vCSTIPjCm0KF3BLHC6A_QBP_qWkarsGUI_lgofD96PHKCyGCIlzWbFqpWS4elDHoQFMpZmGKLE45ITazSOi6vfactN9-R4LrJbdjzIiwiFbB-qPty88dKuX1Teco7U9ocy0hrtnBmY1Pl4PXRwcQ1jBhgyBnLoJJeELF9RUjsQ7abjVpplKe7NhsDdVTWTKA72aBuIWnpU5Y6HvsuiyKlLbcE5q1fMt5zW6ZeeCHI0G9C126TtGdPedIRLUuFJsfQeEAlDl3a6prA9pTVmYJB6uRZfuCM_PUvT3M6Rc8go8eOWSoVBM1rUQGiRgWgzuLE2ftdmDHCSJM8GrjslDvereRphgzhw2wcgca1e-vQwrcMBWKs2sv778uQUqCgG90IJXoGQ4ATT7t-Fi5hTGGXoQk0oSVbe3-5kTLNF18fkdmF1SsWNYKTRkIf1NhCovoRq02X2_a6WHDOO_o_bn1fE9lfY0u0dhVWVcm3-FYArwCstpLJN5bcbvQ2nk17xT63xm8y83EoW0vNZjxVUUM3A2U9ILE2JUyIc_lIgQBCzFEiuOCM9b-IDnsjunhc_V9c5Ujb-_fVk-E1R5a4HIC8AAjNQBrKd4tp6BoKaLzdQscDZz9CTgZKghUbx-gmAy8PxJB6Gh4E7Me2XTzIuqGbKCtG9AbxcMXBRJlYyvxYj1k-XWgvVzrhvHkfwM1LltqqwnA-zGsicqKsjjKCV_QPCdBTG8bPKmYoV2BNtLFae64WMab0zVjfZwo3e8e-Yz31LLa7RWZLON6oKkuqvRz4JMFmqp5XoUeJUfdlVwM8jPjXyUP0-hDsfsRf6mE3eiiqFZxl7WKbE1yMmXVy9VcayC8yISE2UeQUng8zJfZfXWQuI_h9kFAs47Zqk5zlUeGJZYWh_Ch7wIy7yD0mTrf0o_5VQ1xMELQ2LEh3j7-bpEWxyN7whSPZLVqHY_dQxz9fpkzSC3eyKYPR6kuUH5WnXXe0P_og3EYzkp5Y0v0Wc0lgLFox2cl_Ae6dLFQ6E880kgOaPv820kznwtar2R_AqeWxy6U3UvRoUlkV8y7aabL6gg1VipN0gl2xcfLrvJZgyWqfYokzeYEbq7V9SiwgD7FjjIW1drDj0Io6sKoF-dyJsVT-ZyVD9WQLpEQZx5Bd8isMki241DjvvumjtO9Pq1B-7yU5om6v0M9VIFOHfIkFVYoURaRdbuqBfD-34qskn0i92NhOiRopd2kqWUa5FYYk7Luy_zY2vwcdpiWbdz0iWcY_5EBM0JizikR7OxLCriB3SDFYVoUaw01QNI9DiV758OYYAfPpuwZQEmeYgQjbzOFuXS8zNputXxBoCPL1Cd9gdiQWBindY61egStF7ykI6f2ZzfTRT8tf-lQS2I5qhurfoaJwqoxaC966L9iQ1VhFe1RYldkwBCGw-CrbDZ2kPx0efObj7NcbipuHH-6-SOKhosWeHs-Ar7XLETm2EqkUieP8mfdO__wyHiEww4ruYHKj2skMot-2ZrjCCxUh8GayKc0WzFSXWfGIle-wUvwG5IbGbDbrXL6A6H2gz0ZZmDu3c3OjjvYStRG5UcdDYMrrvQNW7j3YPDLRQqGzV2w_RhcS8JBCLSKd0fmFIRMQmbRo2e85HcgPbE7cF-_xpfBhgGKG9zupyRacesmgu7E7xU_AyvQXJdpTG1Uqr0LoHlDARrUu2LamgVznDoDdXmCQi9mQbCiwAOHBLdTF7ZoJ_jMQAh0rZCLFd07O0gqpnh80an5KjgJ1vVsSnE8gHI6UuYJwXxsz03zjMVCWmEWdkIuGRk5U9nHx9Goqe-Zk7gf2DIwLCTAK4496oT2Vj-CaViLSF5fSwY3H1J9_lZCPzR8HIAUQTCsyNlHWJVTggWzjvYaI74Fw9GaIpXu5wC9nZHbp5GSxYeMOSDVesYgJU9SmW2XhG2JOsDcFNvGEdA9aOPam3O3WtnMr0quGTQb_freV10pMUCEqrCYIsqgrTrHjBL0uAoiaSsGrn5L3EGNTgFYMnyZwZ5ExC5qs-P69sciaZNCIebjWwsD9UrlHekX-fn5aXq7lqa7ZenLrXmw2mPjcWjl-LhkRKhsl7Imrrww8pbmKztY3ZgoPhhKwQELyJ3JADd3qo4yW5wvz2tH_tMs3CZkSN9jqCNVimVbPkj3DMgM9yFpRShRs-QYAKMJ3fO-aU-3iSLBHwR1xTQ_UTK5n08nM18qMXiiVWtNhyVm5GuhEkeXBslN1U6OmWQaNgkN2MQkHesF1Y5a_uOMf05NYCeK3GunV9Ghn5ezinOv5WoVGE1J3m91MlZH4N7ONuLDjfMEEStEqbBlaZPFUYcR37vcG2cRSvuVdqNsOMyinLBw8abrGTjcLnh1M6op_IfaIq7e4tNobGrEBVUXSBCJV_wxIkOGu9hMJkKvOFrmHlf2lQy9EUETgrCW-LVZs6heqR5E3-8X57QzZ5_IfGpp0kqZ8fMaeNC2sLuKyw0NeHD3U-7ckFeknnjDUyifT26fVGXTbHrTvn_R5H49IapaTItlM7yst4MX2CN4AFnlhrs6J9gbJ60Va5j1VjyraNwXiEgLZf4nx48A8uD09SYdIraPnyeNsGwBgNF_WHgVDAW031sQZtTzhreIkOfuE81p-TWCO-A7NRX2p1h1KrkosWoo16CT4uLMDOYrYDW03K6-mE1-aA1dm3gFTeHJeGA74NnCBL-XZYv1rKUVnUY1WYvTpvnReTLay50Icut1ubswbdSBewwUAH3KjT1Ljy6a-cb41jLPfF5p4ra2f7yJkILFd-L2c5Ol4aiQoyFF15rlqjoKnHFIRe6yZDOW1DNnng1ZlxzSKWvbNY8feW_Myc8artilDqr9SaGaVaSiqiQCSo8wQWUxkw9oB93dtohA53NeTISpn8YXBc3lcjJgtSFQ34zR9-VyO16G6bOf143t6iAhrt2im_NHIEFC9UC7Wur-nzvEDZySsLe5LunTeLjwvyYdE4kkpXp1yoDrMe4PoSdf1JF0JtAiDOcUPUpIGgvRyEukQLUlHewUXL9ik0-Li-1F0EEvbNoHHO5nMaBrPTw8rHLXWUYi54SDmVAjES2pcOIFjLwcKXuTikm4XuVdqIrAKwouEGNOg12syJHtAW5wJH_ObiEUuzZTp4lCO8XxaSTsPCYdvJqYF86tzR6RIKfnx-VuYH4PpGVBf4KS02_BhfUKoc2ag1HOIEjoSHJqKeJ1DdXpLHv_ac0Y1vNpPhqMIMGn7V60bD6ECIO8ucvgLDaRvMODYuY40YkICmwMcZ28eKbEEmqfCeWkfsn9WN7WuU6Dv3gMb1UQvjHDVsEtu8e9GCDnmBmqQ_nYSUfJU3p7VM-AlIY05R461mIcs6kclgLcj3DUVKPYKqK0AcyNkQKB_wWYSbj-L7sp7cW7ydpiSANY-M9404pO7XlSEMkT8PX_yrkZRfJuBLtDfPlxX06xv-fbJi3JsINdi61_Eg1lDBFZzuNL61aEo9siTd8ygHhgZhHn3S63W0lAFHcsE_V4E_jxkA5H64fIomail2kRk9ahtzEVukcdgMMhL1oAlHShqxOOlpiGgkckvTLl8QMSNiYbsRIKsSpwla--ukV9w3D9fm4EmAu0DEeDerBqVHudN4v9scwjcvnafVf50RvNgMXmrAaimkGoL7RLB69Ng1lH-xCpHxfCKos9GixSZEuz93KqzUtwqkgCcvcbBI4mWc2QgAZBgni75vj6pl4FnMpFU4CJ9Y9h490GhpjXhCIcuG65L5NMGzuvvrlKcCDTNILp4_VCQANIKT8L44TV9vf1zX5freO7rM079Crs190b24hNrb1YAgPk4HOFCghC2HRzv7OqMemaWp4NfZEnJifoqa256eL0lbvTeLyT8t8gyLSbkjJJfZ0vKcz52_8cQJhLv_l2_iy4kveJ1QPL11vfpsus6fevHtn9I1tiPqOdyshwIwnI4G1c07q_tFduMin-wRtDb4fBMfC07b6oKJSm0DI8P2Y7JsBgCXToLG5kbCUV2GV40VEo4R21F1h16nul39x1mkpQv5RVZ9hfBz5tZ3BTeIqL7b4ChzonXhPDbFke_iIUfCE8pob_5HWAnMNsRy7EtOVKtigW43ti72Rqy7AP2p-sCItH1P0cvRhaI9CmEjdgDtUZdDjmGlgRSrMqUBJhLfDwADRrKdsavHWHCJCRrYjxmJOUM1ut65zID6GpjCThJBq40iAz6EhloFex90ERySkMv8bzmrEdHSRoffJCjPpY850_WB-kGLH9rzGSJt5kiI-6glEAWSY0HWWP8Q_pON3ztnazhP1Gdz_6mJiLYZXwbljIVAIYnBFwx_DI_OUwsRWCGgkEktoyCLys0QeeImEmPUzafqeRWM0aaX7Ap5TckZ1xiUNQyx0pPZa5dX-DMoFQPJZj4JVaJ0c_aq3YF6omlJFGWF-H0pHPNQH7wqW7w_mvW3CdNitVg18aNrWykQd9Bw6g-mHSGkydMMl0I0jg0afT-9gl-kp8nrUi8JLHulZzkS6JOgOokCEDMKmRBftge6gMJ9GvQhFadHce12NwILFxYUE5Q9LNLZmpZgRp6MJGJhyWxfRTAmUPJb16D7x6kbCexHAdCu9SsnMNYS7FsqoT2Cmiqqsp_LWfRSLuM1cF_gvx1HEKotM9VutgvUFPWATdpqvSqplgraI7ObnleSpznqbry63K_0_qPZltQ5-nRRLxJFc2XTkAV-L6IyFCGy6RRcZ21YLfpzZJKo0vNBEHw9b7toCiY0vCvaFZSsXMz0r5RdGw2PbPpx04tD63QrySve7vaBFf4N955oDVXJlMsUtwjnCWp-9lCh4NIoqJem54Bbs0H4eyaDaaxkuny-kqQAcY46GW2z9VuWXTsjXLgxbpoBf1mmn4m48dVWBbOKmzOJJVDulcFufFiwGR0jZ4FuGCscH3mDG_3MmNSacgArSzD_j_cfZn9Z_D8wb-4Viebd49MQL131EFP8QNPTAEgeoq6d2wPvDwo-YpJGjpVhIzGnz5qDwHuSUAD6_EMoI2YCg1sLRjT19AxF5yVHCdDArcnMkTxRSRfw_HactIHv6HmogVjQBepCGkOy6VsxvWXI1n87RpgOwCCqFT19C8dEIr1DDynS8PVzohmP43lMs0wvzKwwAEiotaP9jNSm6dR6IVtMt38kVZQkzz-oO8l4Dvg7YFmUU6iyMdv77DBkZM8GGncURcl0pjsnw4GztDNWD-ik03g8qBUVFr9chKaML5utqTGcY_QH-nfhJ1cSvyyXzRKCbcRT39XA2mYsZvCOVYI9f15QsXJh3-GUNsX_Gwxl1ewnP2jPEPyb3vP3T5m9vzYGJznjUC81iAUrzsQx_pS9DPGPI0Q5m1hdxGo75jVfuC3luxNuKDMJeW6Gp1LaFVSq6ot_mQakfl8xewdPfbwWlmuwjFI9nY4iLKgA-aGeKsOGb5iqq1AhPmAyGZTLqO7EQ6AYYqMKxfzNuV782V_Vb4C0ottAuVOgBSndjXeoIitBmTknAaxQNqA0T7PEU6PTec06mHLm8FuthsqhEk1zD-x0HDgfX55H6qy1E8o8Kn9w-ZYC7z4pUuFwICnNnslxtVK3bRgzp6Iy0Z-w5iCsovpaYalQEeVEodoRUHVRVZl4FySgXKZHL5gUCQV1RfuiJwlJVsyBKjvJ5F8WI-SJYrlyiRwcLGnhnZMBuL5Zm1ttD6_NyR5JMGjbSrf1wZ_jFhDSL_CtmaBovJLi3huPAbkRT8xGWHwaUQvh7VNOPMZ9tdeCDrMhc21PfAJ7bBSs8Yms8MtHERRzWE7zGLY60zqdme6doIVy8upotrHL-MzmVeVXf48-dyMyDlGMqOZmCQtEvvMDjH-jkCZn_tKS3WNGuxcKpj60ZF-qutwfD8h6BElx3UXT1cSSGCK-PszeViMzJV6wdo4OmCx-G1_0RucZF0T7rSR3sxI8jPtAvcXnJ-Q0kFJhHRJyPMhh9cUjs1bex3trkCfkKVA7J62tooWzE5aoSXuunnj4jdjYf7ctdx2VtUnZtemwcr2JRt8xN4_JsdUUUn_31ufqpX4MYkE_4w2Jep9C1dKkeFsSJuhtQH25AAffjZB9mNN3l1T7bYvxmCGqNCv7l8Q7_-khh2-v4nxYOEF-XrE-OJVwAM_h7totsyRGBqgEEXs9bSZaq5qIWSuQPRkM21o98pOsHaoJsd-G05JKH5jsXrGpLr9mBeYTV4vDNToYTEL10smDiejn8qUFewaNzTo9GhI0YP0zVn7zwN660l6YyZ1iE5DSQSlC5HlTui6rWYCkjmbWt9Gr0Pnr-OaFFP0i8XI_NLv2-Zcqmsafptn1AQzdgJrHMtOs16qNmm_7g5QtaisUHXJeDO5Dk8YquydY_fKOUcJtQ8UvNesuWxPjkucN7RAgYaZb8YWSZ423EN2t2rBez-tYIYRI_rxxj3-fAhY7IDXUwuW53MJ_D7KDkDLUWbG8EVxKeLga2h7DzNJvIXQyTR3_vXNl2vFj7mAGj2SST0oBnLE3_41x3kqz4TXD8_S06iIHW8R4VBt4fZHYnM5MzZnf5_VHecwuZizCzg4lGmwhm70wIKfuGDXK6cUEvAxau1GnWZXOgeV4gwsfKk-FYHLMZFMxUUvD-m2hbsl19oESxg94d9Np77szFzFTaA4aPInMOvp67pEKNXH0ftwRY6Qxzem3bRrw164jjOD6VE-EFA0eosajpB96O_vj1AoY-6AV99HOivlrdu7BmjNUAxsIC915AC3uR1Y_zeCq3ssEDiDevlKOujtcWxZwX_ey6UWXC08QoWLvx5_9e1ZgWX9SRMEDtu8Cq0uUG0Gdfc5PfhcSsvVAacEU1Y5iOjOX6F5hc9OhnNv6A0uYVWylHRCI2MFEfT4Q3JDq2kTJNzK9YenWYKYHxKbRKNVrt1gO9AmkZFFr9kIG2TzPOlA2ZB4m1EdNb_dzekwPflh-L33nN3BI31Lutf2jl5deYAOkwsilwJyl5GO4aSKhAWbiOv1gJhkJPTnvz2Dljf0ksIdgG74_9c0IDVbaHtRRPdOsF-raPD2wLvdem2OmnO-_GDrrPuuob-G2NUoXS4L5LrrXrqUhh8cA7jQgsWSrva1jYbyK4MDjYc9aqF1qJvF-BEmg3Kk0_RtxYg8z-yjpJbj93pwTvBSw31g_cvaPE1a4OMc1PdxwGlS8-JPL8Okg_UzL5Jrtq-4VSYwffmFU4aeI6Fw-zuL2D4Qs5WS23OuwCBmSZbkVRClI3s2dtmvSLyPk3--Q3EnwXg5AA2eZgZIc2MDmWqj39Iu2KZrO_Bp5qVCiWr35EcPkbVGzQYLlGKnUd-t5IapXDAFLAmAg24ZrMZ-XjoCCMFIcgRyyA4YbnwvW2d3gOhRXuY7AuP0jXaMWbXBW46BvG7q_0GNvGERoC80iKQQjfu6lLMYe1pWcDzBe4cwkBHqVbCN9IZOxdS0f8als2AEoY_Qfp1hutf90fgKbehUDYkpN1ldrD1Ayv0hCUnqu9AXjCtu19C14Gf9i0xx_8oL1ykLmNENEIM--olMxOh1Ad2f6wmKIJJktCau7gesDKsh6UFP-9lLS4aQ4FOV9UCpCRxDsbPng0-3Gg-DYJBwK2thiApR-f-eOtY4UW5PWFoIzhFRzQv5dowqNPsg5mgPhfhZjMJe5-XWJYEtaNY-RIjbnSVB7v2ZKkmx5lRn89t_SpfFFUQyrWNu0Ni0RLr1jpbgHU-WRwpkIuc6qPpzVe0M4FIxyZLhUwSy1XoxADQIs0jiB3tUWdwCurMMxm0EUh35msmwhsHFRu-5bkbtkIoq4bep1bAM9QDVPmnE2jE4PqZUk-PganYAwSX7xEjppoyj9B8gYGWZ3qRVbB5aoft_TGNXAbbtbwq5I8ywpu7thtTR1YV0WgS-wF_yccWSK43NCyan8k1mluW1BK1iyGqz3Pa1L6swaF1w96mfs7DPvwOhl_6ZLSboy8A4Ej5cXeQNRrH4VjNGtGycTd17mQWoHez-WdBT1vFxdmpKrlyseji7bMWa8QmjqDupui62sgqq6NewpN4qMRMhykutFBx9riq2FzyUYNemZf0snM2kmOMUwMAiy-zSHw-zIKN5mYD24M_CkdIOSIc-pMzZ6JYZ-AZMloPhiuyZOhsKVGljMZy-K-6z8ThRWHBtGbqEolSAAH_sE5SFd_h9up2TU0HA4pREV34SqoUdIk9qbd8SgvCuGohM_9KMl8nO2fQfbc3wn-4n0v104jTL2GhLujjnjbM0GAqP9PjGfjpi3kJuNUojopi0zQOfCK56jWKHfijwE_7I5WjyG3K5UHPp_XuGDDj3rk_LZLetVRFyWKAQE4Gq75AdqbcWt6L8GeJG39TOCNQlviZbXdhf_MnKPmHZlCD5vVLD7XVLDeZI3AKpcxfQDGnwlUGBDqdmOarpJ0VVQAdEN-WryeSaOLXYErkt3uDhN9WgZ2mHTin4Yf21BHI6lqv1fM2UnNGGAeG4iNTXTJre_Ls-yXK9-8D_uGe78Q1_Tjn7mQo3TERzKzZpg8-t-44l4_r9WHJsFIr8jUwSg59XZmUkObW-02FRIYEbkOYPaDcd4igErlygvTSOm2gj_L2G6jsjNJ6BRQ4PxdXIaZGCYRXMNW6uEo1e6TPdA46pzypgVC3Au_EjQDM1I4RgLLVkR5yq5WSJYVjlKtDhNm62lCht6VALWPjBxkq6304S2_OVqNli_Vkdfb1aGLEtDEpLTqVy4GirkptuxwpX7vak8Ie7D6XPygetZ4fCSSG5arfJODtTdoDimCqhG2OQP9Ys1Rt2Bzr8oVTd7YUiIOJhO5Pamt3dWzz5Nv-_Zw18B1AxScO7KYJP1UMr4YqLV2KXKGn98ScVhVx2GEU5kOhaXDUv0Tol9DMDChsQIVqGVj6cg_oMZSAYp77NkUA9IO2QZVI4jMSfO5r2vuh-0oRCtRmQ_NGPhbirTbL456L8jyKhil6BzbT-qeZzkd7D_5IXiz-0TFivoTSZaam4iCbSVcPh3kATzLWZl7Ot-KNp9zdlLBLfiJHEqE-n3tSabWLB2VQGinrPDXRGzHAekV0N7S5j7nV_AEOwgVKycuzwEpZlBl2TV6Qny-QVWmhf_icpJy_nL59cH-fGGqA-eKxKsC4CVL1f8kIyABxiAGhPi1UrHnTmzhaKr17iDcIWhKha4HIy6jc1SW_B0bI4S5KofL2kGxERkQrmr7jsprfpoaYc3yQq2O8PEAz0LJ_Our0MYej6h2asj_XNtHb7EuMzDWg_yLOZQL0eZynC-95jaAPD97syefJpmwtM8Ope7_oWh2Ef3MybBtLq4S6VRtUH6E6IbUXCBsWeSPyLRQG5DRHJHRE-WQCRehg65ZmjrkBDFfYCDr1SmqiZWHqa8nHjJxklKz28x5p80QY4W29yAZvHazrgprQGBDTRQlMfS3H08ocY7gC0JUvTWpOPuWLepzx5V9ndhbywi5cN3-4DcArUI7gVUFz0GHIa7voMfs1eZOgFluASEr303zOu1xMG-2-nI9LDwJ2gRKBYXY68SSXBKwtkPLJwrN1jGf4csOITPtkIfkv-rKaTNLW9ML19h-uFbcYxvKTKZubwO4-xa1eFbgVum4yfiMc_PSAzWThXAilNmvOcbAxp7IQzDTxeRAD0FY0YkqJ8ADeLB6G6xx5X51BuIDj1o61iUFA2U1HcsEmC65iURwhvaudZpY7Yvv3iNjv7-nE5rvHoRISIwUZ0tR3no3AfaNLZrV0Lw7SzWFphRy6HcyP1kCUCyYp7XbxpXo-VwYSJ3uCgTnnjX5V3ocnEY6CL-afY975615sZgS81HiZvHbORGjJiE8IoRHo53wMtnoyp_c7x_Di9VpwMCVfE8k2YN3yiJMCQKXbHilFuT21SRW6oV52kS0XzSBFz03kdf3Mlyw6xy-CsMJEKMWzgyU0K5aFR6GIfiVH7Zlbj9uQh9M5ck4WqWC_f37VZm5ESG4HYWVNp7JOoqT00mopL5H_fpBIdFb-5Ga-akDRlQe05nBusMygustRFjyrYcDwpHgkpR__Pap7Od84DAY63I6-99m_BS-O4xdh3yDBpYMWou_qWEF12TdCgVct4h1MR7TZXmRdW_yszLu3gXmg_mY6qJos6rEkv55ggQQQOjvgWLgmLaVOsmCXTLeyLkV790x2iEBXVffQE1RDuGFvpEq-Zp_YFLYwd2oaSIOVOU5FxSGUihqV5UwDvqYz5pyo0bFmCllGk4Jbo6y5Xbhq_ILSNPmexpGXR4L4nSgSTjKGAl_i2_h-2IpvN1x_33OgpSY9W6I0AcWyQrNTdpqjoqUSXqJoseYSw-9Zs7X9kHCJjgVpz208NXTI6fNdNznCFkVLIxZ8kHbwppHOfrUy04i0Ge9lfX04RcYnl-ahQEyieJzZo7DRGSiKI96pAV7yJkogAhDaJ4DCUnRe_tHxK5iUh-Nc5JrjW7ppQahKN5HInAXIwHPZNYvAJBeQxmQ02yLhUK8gahAVvg6CTxG7oJCdhc7EgRlmRVlGHIND26SIXozAmUHpvTA9-MTNqtI5OKOHRYvIHcnGo1Sh60RsV75ZE7A-jVbCyHyjPCEL_TWZbe5RRQ-jowzK4QPMXXZSdO05zwTDdTx9yo9za_B4uO9ZzvfmhSyI7e1ZPMbpmqygtyTc4zhfwN7Y6tjXT1aJ6fK_vbFM7W36KJQ_yBT6olDXsMN51f7UlNx9Rp2Tvy5aUzMQ7hFc6rbgboAQzsqYeezm8ds39B9D009wUBt_OIKdbFHzaZSp7JzMUbXVm4UZVJYsK2y5i0Ipli9AyVkLDbpu4JBDyFMiwkaHc40vo-nnjvfuhX8u2j0f8kEtaXvx_2If8STE8mbe2F5Nc6H3Z0GQiiZ9tyWJU9mesygwwu9DYZvDJcbSObOEqkC9__j9_KwQvh96Z-jaMId_0sMOMY0jLp3GJgOJGiUcsYNxnNAWsGWZksmbdFqZW5XVinK6F1j1Lg-9wPxKfo-lN5adqRM4ENaKE1l_gpqIo9MDmuuwC2NW0sFq7MT_zHFKBxsKjnkeHLtgF7DwMaTOpmtkUtcgn-BMYIGvRqkosKHs1Nx-p0sBFMRZ2ZJIyv1LyoUqQabghvT6iyKB--tIYzpgNyRzN5Q6JYvgtfDwq_xmVsuf8_Ch6DxrCO4o3AWlI_6ovc9ieFbvzULiXEUIBVLW7p62HcF4fP6csgRmSeh_J0rut5JYKc3rfhrx21v2BtVdjDklvc5EbBTBsARQ3h_kk6lezQZCshBpW0LRW_AlGT37UbbJRlB_0ZN-obcW931g_lF7wOT7GDlboEC8Ladae0d_4s-v2dhDJabYT6a9wjzMg5Jq839S_v4jKaUq8jTEctTU-eE1lHaRFIDQ_rtWYnJKXjCp5FzPKf6lE-XMRL57rxEEqYhYj9f63dt4NSof2lvB3lW0q_zS1tMvmTYA9twtwqfPHiy5Gs2_QeCZNYaQU2jgZ0TluFaSrkYvxzKUIwDKbUWfRndWKUBXnWhV_vlDYkV6kEwj8eTyVhVlhdZWflWswYAB-nXHlLITzoMt196ZNVRgbpKnBV7NVCyYG1PQCsB_ZMQj2oCsNW-BaM_4LCwaKeFA6waVxFrjoFheT5z1j62nV8cx_69eXDN9Vh--AIwxVI4KPN6RZA026FUANN8JuqxROBlbQYqfeyNwP4SoBIJ2nTPaAeWjoIlNAAMjFPDROHKwfdauKyZ_bf57aE2vVczuxwnYWS-sg9VagtOMpXTbG72nVuo3YOw5cLNS14dwlCDXJb7tDHOKwsRwHJX102z-hfJ4uUInxJGHwlncdCTNEoa5zQg9_mFkewEV51WMPYye2lR8z0EwMIG-FSyJ_JTfgVxSOUdjCOBK2sn2E4rdwPk3Mf-YBtQdhWOFctv95U8Ym_KS_tUN5tEYLUlqKetFYZIw5IjGvdHr3QAGvL3sqLJYdTdyrXQ26uUhDE6TtX2MEzb0k4B9WE8Lca-Ad2Yz5A6A56o_errWW6qzn99Jwb0ekQnOw2jWs5g-bSo5DJxhYrLhRbulIfdWheD5Y39UZxexsNJ9UdWPVDx4LehGpiK2nhrlveZNuDl_K3GFQC8ejODhkTxKR8BTlsDlRn9f011hqwZVv0-SivaKbCqHMdZbOPBFRJJoVlXoOg1DQVEw0BTR1zBeFg3tWTIiGiaSGSDEOxJCRioK0HSv2VoVh2oHupWHaHNzbryt0IMKgFv7-lNUUf85mRQzfkLKDcn87X076il7L-xkqyMLAQQYZkH465KzV8oNa762hrumPK82FIo0Xi5_VJuJsz3rIyPPOZp6iMb8txnx7G46U6TI1giXuTkMd5XDaxo2gUd0Y51yvcnRQRkiaOkHSznsaHstVix0Oqu9WvK1m2EQwBz7h1_UJInQDu3qpMUWidXU-rCCiTA8X93rNMpxiS-kGZQ5OwWaJo-nMpv5j450-88DBnMblE0vZipx2u_3v8vk3TfUm3myD6cPQn-s6U5uvRn28xwsF3rRNAVTU7kjlTAPfCIR2uBcPYo0utTa5Lgkyghm9dRRTCqWxgXT6-77fa-h_YzLDuPutv1LuAkwW_0xzyAmkLrVbiF0uxKOdGX_HkLzvkXZxuY2hiJMYhpK4G-TLdmHWP7CRcGz27hs9-o340kKoqj7lJuzDkJvIAzdY9D8jDi70c3Q37dvKiMi-NA9buAJo_zNerluzDI71IYDH66_ZabPKv3aoXNqeAQAbfefifdo5KPLJGWmC0_cJgTAP9dwzBzwzA4bA_GzTtqTO_6NVzEyz5iZ5N0cR_yfRZF6YUVotRDnp1LaUQzGs2fr5Eig9SFl2-Zh32_mKOCktiB1gICKGagOJZV9YXQephMUh1iz_3HaavmE4JzZIYl8uZxQk5i7FXoMtSJ_eUccfulgMDRBRwSUG-Y_0U6gEGxYnhVmXEcUtC_6xOIdrnclx7YUDobixa0DBC-uIh8fRIwjEH_jqC-Ljvf5QWnlgzX6hFyi5G6Nu0ZaI1jM1FdSRZ9khU80d7xbZgxk4qKsyL3EiPNoaDEPtrF4nC4aUIMr1xVd_pWb5kjwUfF1pHNzM7DqPMmRnB7njoFEQGLY4ua8kbNWIphZEOkjiV5hTVev_CTQdLUVYyMtMfcnqIgeB5mDNOD1hTeZX-7yiZIibWUpNq3ScheWmXHAPKOrXgHWUF6XFjlKagwwLKwGypGyTIda6EJav_HPpULThtaNa5qqxP4zZO-NJPWf1g-fjzQssciHoaA8uaAlfpF3a6UqcxvuD22HnNNdVGiMOR-e-pMUMMuq4y2ChdPvkKlUx_D1ScknMdZNnGfw6H-ienxyfmmwyv0DKRUud18AnDBsb8_TJHDBS5yFEiwcKubW4IDKH7mGV59GJICCyaeNVCTkuXoy9n83ywNuor_5g4o_APQ4fx-s8wzfepHpMvrOlnEgDIbQ2q_mv8bp6pEVjPKqtezclGM0Nm56cxgC5W1lg8ygj84DnbuubEXmFrH1lRaKWpWfKTJDwfA1O7McjiRCo8xnFDkWGrm4P5QewYCji5Az-dzN2F3gjR-HCir4a8IGnVjhNdoLY3RU4KdHQWAwTau4Vuy2dTQK1hNkLBwbKTNaE0wtPNaneD5DQl_d3qusxtLPm471n6vBBgjvo2BFMloyKs7jTISf51byO2ky0wLpchvMEK2548rqwYMdawjrTLE0PHm84MVh-MpXOBnrHoRD4FZm-L9izgNGmPa7CpP27ijBwZFP44MfNnrqXcy_rsmnivP53bgbmRzXnxGJh2RhT8Uop-XGK7qUB2hA22LHtjBNcGFKVm_keCMzZozSfUqrY3VGGuuvvv48DgM2pmrmP_SrZM3GFFsOYqHsB4WeFsr3O11fzVUamHl8_atCM5_qam0uYh69do0j6agbF-lMKrYgSUM2T3h2djVnHtCdhlPZNu8LSBcmIAW4amlbLACk-hkxtGGfsET4ywNGLU2yMFfXtoiPw_gVXJWh3jP_mCcDSg77KDOHjmLzPlfTT4vVAYkAIlQeEvIRGXKzrNkCu_0tc71TTGMe0S0lM6vruOh2wUGA2dw7nIja_LmAHbEz9HtRgrU-P-ZiRURKYFw-XySC7gJJEPXlhzkqVs02LEK8rO6idWGlzSqcgHbqgbHgi7L0Y_Nf0CaI0i8Tegrmui_kh4kcNUfZ07d0izPQRvTIzMsWKXNFapV7ZvlolfitFyZ0aLC9hkEkYupGl-aVGspK3r3qM5YutBLgdr_nijwfXWTigPmejAtSBNv3TctT9EXzOd15obHHz0yI-NB3WTF06fIzxvbK-EzlW0-YV68QB-5givneJczViiH1-MxtC3R0hwKd6qguJIeDy-ls4sRNiHZorSVfV1ENETp06xTQf1Ge3AsaOQofK9U_fAxnVhB6W2_hULXnV789lMHWCmnnTkWwwg8Av189Rha5oP71Bb0CbLCjx0jr5dqtq9lJ-wLFPRZv2RFcuLJaOstEZ_2K85YY4Fetk0wWpX-UBzlUi9E4C94DCU9R_-pxyehXRFCQakAPSgJ_1hBHBEU5-HpakiBNWylHD1MeIeh4I
+import time
+import random
+import re
+import logging
+import base64
+from datetime import datetime, timezone
+from urllib.parse import urlparse, parse_qs, quote_plus
+import os
+from playwright.sync_api import sync_playwright, TimeoutError
+from openpyxl import Workbook
+
+# --------------------------------------------------
+# 1. LOGGING & CONFIG
+# --------------------------------------------------
+logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
+logger = logging.getLogger(__name__)
+
+SEARCH_QUERIES = [
+    "aziende chimiche" "Emilia Romagna",
+    "industria chimica" "Emilia Romagna",
+    "prodotti chimici" "Emilia Romagna",
+    "elenco aziende chimiche Emilia Romagna",
+    "associazione industrie chimiche Emilia Romagna",
+    "distretto chimico Emilia Romagna",
+    "registro imprese chimiche Emilia Romagna",
+    "cluster chimico Emilia Romagna"
+]
+TARGET_WEBSITES = 30
+MAX_IP_ROTATIONS = 10
+RESULTS_PER_PAGE = 10
+MAX_SEARCH_PAGES_PER_ID = 5
+MAX_VISITS = 40
+HEADLESS = True
+NAV_TIMEOUT_MS = 25000
+PROXIES = [] # Fill with {"server": "http://proxy:port"} if needed
+
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+
+# --------------------------------------------------
+# 2. REGEXES & HEURISTICS
+# --------------------------------------------------
+EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
+PHONE_RE = re.compile(r"(?:(?:\+39|0039)\s?)?(?:0\d{1,4}[\s./-]?\d{5,8}|\d{3}[\s./-]?\d{6,8})")
+CAP_RE = re.compile(r"\b\d{5}\b")
+ER_CITIES_RE = re.compile(
+    r"\b(Bologna|Modena|Parma|Reggio Emilia|Ravenna|Ferrara|Rimini|Forlì|Cesena|Piacenza|Imola|Carpi|Faenza|Sassuolo|Casalecchio)\b", 
+    re.IGNORECASE
+)
+ADDRESS_RE = re.compile(
+    r"\b(?:Via|Viale|Piazza|Corso|Largo|Strada|S\.?S\.?|SS|SP|Località|Loc\.?)\s+[A-Za-zÀ-ÖØ-öø-ÿ0-9'’().,\-\/ ]{6,}",
+    re.IGNORECASE
+)
+
+def get_pmi_heuristic(text: str) -> str:
+    t = text.lower()
+    if any(k in t for k in ["multinazionale", "global", "group", "gruppo", "leader mondiale"]):
+        return "Grande Impresa"
+    if any(k in t for k in ["artigiana", "piccola", "familiare", "ditta individuale"]):
+        return "Micro / Piccola"
+    return "Media Impresa (Stima)"
+
+# --------------------------------------------------
+# 3. HELPERS & RESOURCE OPTIMIZATION
+# --------------------------------------------------
+def human_delay(a=1.1, b=2.8):
+    time.sleep(random.uniform(a, b))
+
+def launch_browser(p, proxy=None):
+    browser = p.chromium.launch(headless=HEADLESS)
+    context = browser.new_context(user_agent=USER_AGENT, proxy=proxy)
+    # Speed up resources: block images/media/fonts
+    context.route("**/*", lambda route, req: route.abort() if req.resource_type in ("image", "media", "font") else route.continue_())
+    return browser, context
+
+def extract_real_bing_url(href: str) -> str:
+    try:
+        parsed = urlparse(href)
+        if "bing.com" in parsed.netloc and "/ck/" in parsed.path:
+            qs = parse_qs(parsed.query)
+            if "u" in qs:
+                encoded = qs["u"][0].split("a1")[-1] # Simple strip if needed
+                padded = encoded + "=" * ((4 - len(encoded) % 4) % 4)
+                return base64.b64decode(padded).decode("utf-8", errors="ignore")
+        return href
+    except: return href
+
+# --------------------------------------------------
+# 4. SEARCH PHASE (Bing)
+# --------------------------------------------------
+def collect_websites_from_bing(p) -> list[str]:
+    collected = {}
+    attempt = 0
+    while len(collected) < TARGET_WEBSITES and attempt < MAX_IP_ROTATIONS:
+        proxy = random.choice(PROXIES) if PROXIES else None
+        browser, context = launch_browser(p, proxy)
+        page = context.new_page()
+        try:
+            for q in SEARCH_QUERIES:
+                if len(collected) >= TARGET_WEBSITES: break
+                for page_num in range(MAX_SEARCH_PAGES_PER_ID):
+                    offset = page_num * RESULTS_PER_PAGE
+                    page.goto(f"https://www.bing.com/search?q={quote_plus(q)}&first={offset}", timeout=NAV_TIMEOUT_MS)
+                    page.wait_for_timeout(1000)
+                    
+                    if "captcha" in page.content().lower(): raise Exception("Blocked")
+                    
+                    anchors = page.query_selector_all("li.b_algo h2 a")
+                    for a in anchors:
+                        href = a.get_attribute("href")
+                        real = extract_real_bing_url(href)
+                        if real and "http" in real and "bing.com" not in real:
+                            domain = urlparse(real).netloc
+                            if domain not in collected: collected[domain] = real
+                    human_delay()
+        except Exception as e: logger.warning(f"Rotation triggered: {e}")
+        finally: browser.close()
+        attempt += 1
+    return list(collected.values())
+
+# --------------------------------------------------
+# 5. SCRAPE PHASE
+# --------------------------------------------------
+def deep_scrape(p, urls: list[str]) -> list[dict]:
+    results = []
+    browser, context = launch_browser(p)
+    page = context.new_page()
+    for idx, url in enumerate(urls[:MAX_VISITS], 1):
+        logger.info(f"[{idx}] Scraping {url}")
+        try:
+            page.goto(url, timeout=NAV_TIMEOUT_MS, wait_until="domcontentloaded")
+            page.wait_for_timeout(1000)
+            text = page.inner_text("body")
+            
+            email = EMAIL_RE.search(text)
+            phone = PHONE_RE.search(text)
+            cap = CAP_RE.search(text)
+            city = ER_CITIES_RE.search(text)
+            addr = ADDRESS_RE.search(text)
+            
+            try: name = re.split(r'[-|:]', page.title())[0].strip()
+            except: name = "N/A"
+
+            results.append({
+                "denominazione": name,
+                "pmi": get_pmi_heuristic(text),
+                "phone": phone.group() if phone else "N/A",
+                "email": email.group() if email else "N/A",
+                "address": addr.group().split("  ")[0] if addr else "N/A",
+                "city": city.group().capitalize() if city else "N/A",
+                "cap": cap.group() if cap else "N/A",
+                "website": url,
+                "notes": "Auto-extracted"
+            })
+        except: logger.warning(f"Skip {url}")
+        human_delay(1, 2)
+    browser.close()
+    return results
+
+# --------------------------------------------------
+# 6. EXPORT
+# --------------------------------------------------
+
+
+def export_xlsx(rows, filename):
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Aziende Lead"
+
+    headers = [
+        "Denominazione", "PMI Category", "Telefono", "Email",
+        "Indirizzo", "Città", "CAP", "Sito Web", "Note"
+    ]
+    ws.append(headers)
+
+    for r in rows:
+        ws.append([
+            r.get("denominazione", ""),
+            r.get("pmi", ""),
+            r.get("phone", ""),
+            r.get("email", ""),
+            r.get("address", ""),
+            r.get("city", ""),
+            r.get("cap", ""),
+            r.get("website", ""),
+            r.get("notes", "")
+        ])
+
+    # 🔍 percorso assoluto per debug
+    abs_path = os.path.abspath(filename)
+    print("Saving to:", abs_path)
+
+    # 🛡️ se il file esiste, crea nome unico
+    if os.path.exists(abs_path):
+        base, ext = os.path.splitext(abs_path)
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+        abs_path = f"{base}_{ts}{ext}"
+        print("File exists, new name:", abs_path)
+
+    # 💾 salvataggio sicuro
+    wb.save(abs_path)
+
+
+# --------------------------------------------------
+# 7. MAIN
+# --------------------------------------------------
+def run():
+    with sync_playwright() as p:
+        logger.info("🚀 Starting...")
+        sites = collect_websites_from_bing(p)
+        logger.info(f"Found {len(sites)} sites. Starting deep scrape...")
+        data = deep_scrape(p, sites)
+        fname = f"leads_chimica_ER_{datetime.now().strftime('%Y%m%d')}.xlsx"
+        export_xlsx(data, fname)
+        logger.info(f"✅ Done! File: {fname}")
+
+if __name__ == "__main__":
+    run()
